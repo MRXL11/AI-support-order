@@ -1,0 +1,5 @@
+{
+  "name": "AI support order",
+  "description": "An AI-powered food ordering chatbot that helps you choose your meal, place an order, and set a delivery time.",
+  "requestFramePermissions": []
+}
